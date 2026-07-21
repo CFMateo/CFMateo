@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="38" viewBox="0 0 144 38" fill="none">
+  <title>Mateo profile mark</title>
+  <desc>A geometric M flowing into a mathematical signal and arrow.</desc>
+  <style>
+    .structure { stroke: #57606a; }
+    .accent { stroke: #0969da; }
+    .accent-fill { fill: #0969da; }
+    @media (prefers-color-scheme: dark) {
+      .structure { stroke: #8c959f; }
+      .accent { stroke: #58a6ff; }
+      .accent-fill { fill: #58a6ff; }
+    }
+  </style>
+  <path class="structure" d="M3 33V5l15 18L33 5v28" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="accent-fill" cx="33" cy="5" r="2.75"/>
+  <path class="structure" d="M43 28c11 0 11-18 22-18s11 18 22 18 11-18 22-18 11 18 22 18h13" stroke-width="1.75" stroke-linecap="round"/>
+  <path class="accent" d="m135 23 6 5-6 5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
